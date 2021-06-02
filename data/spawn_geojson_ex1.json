@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.17619609832762,
+              39.738416477469315
+            ],
+            [
+              -105.17618268728256,
+              39.73851960445191
+            ],
+            [
+              -105.1759573817253,
+              39.738418540010485
+            ],
+            [
+              -105.17601907253264,
+              39.73834222594624
+            ],
+            [
+              -105.17619609832762,
+              39.738416477469315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5a6b99ec37f4de7f94020090",
+        "type": "Building",
+        "geometryType": "Rectangle",
+        "name": "Site Entrance Building",
+        "footprint_area": 2189,
+        "footprint_perimeter": 201,
+        "project_id": "5a6b8adf37f4de7f94020084",
+        "updated_at": "2018-01-31T20:36:55.936Z",
+        "created_at": "2018-01-26T21:13:16.655Z",
+        "building_type": "Guard office",
+        "number_of_stories": 1,
+        "height": 9,
+        "number_of_stories_above_ground": 1,
+        "building_status": "Existing",
+        "include_in_energy_analysis": true,
+        "floor_area": 2186.1813555730605
+      }
+    }
+  ]
+}
